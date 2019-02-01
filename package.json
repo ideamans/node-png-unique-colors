@@ -1,0 +1,17 @@
+{
+  "name": "png-unique-colors",
+  "version": "1.0.0",
+  "author": "Kunihiko Miyanaga <miyanaga@ideamans.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava -v",
+    "watch": "ava -vw"
+  },
+  "devDependencies": {
+    "ava": "^1.2.0"
+  },
+  "dependencies": {
+    "pngjs": "^3.3.3"
+  }
+}
