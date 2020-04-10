@@ -1,6 +1,6 @@
 {
   "name": "png-unique-colors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Kunihiko Miyanaga <miyanaga@ideamans.com>",
   "main": "index.js",
   "license": "MIT",
